@@ -1,2 +1,0 @@
-# glassdoor
-Training Project
